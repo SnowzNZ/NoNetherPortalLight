@@ -1,0 +1,6 @@
+name: NoNetherPortalLight
+version: '1.0'
+main: dev.snowz.nonetherportallight.NoNetherPortalLight
+api-version: '1.20'
+author: SnowzNZ
+description: Prevent players from lighting portals in the nether
